@@ -1,6 +1,6 @@
 {
   "name": "scssify",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "Sass browserify transformer",
   "repository": "cody-greene/scssify",
   "main": "./lib/index.js",
@@ -42,7 +42,7 @@
     "postcss": "^6.0.13"
   },
   "dependencies": {
-    "node-sass": "^4.5.3",
+    "node-sass": "5.0.0",
     "resolve": "^1.1.6"
   }
 }
